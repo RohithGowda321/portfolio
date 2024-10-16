@@ -169,23 +169,21 @@ export const education = [
 export const projects = [
   {
     id: 9,
-    title: "Grin Mobility",
+    title: "AI Powered Coffee Commodity Analysis",
     description:
-      "Grin Mobility is a web Application built for EV taxi services where user can book a ride for them selves and also drivers can register themselves on the platform",
+      "For a deeper understanding of how AI can enhance coffee futures trading, please refer to the detailed workflow document provided. It explains the entire process, including real-time market data integration, threshold-based monitoring, and AI-driven analysis, tailored specifically for the coffee industry. Additionally, you can explore the web application demo below to experience the system in action.For reference and further details, please go through the workflow documentation and explore the web application",
     image:
-      "https://grinmobility.com/static/media/Grin-Logo.54b6b3bb5e4449ff494a.png",
+      "https://imgcdn.stablediffusionweb.com/2024/5/21/4f0d5d3e-d54b-444b-9325-b76bfbe485b1.jpg",
     tags: [
       "React Js",
       "Javascript",
       "HTML5",
       "SCSS",
       "Firebase",
-      "Google Map",
-      "Email Js",
-      "Authentication",
+   
     ],
-    github: "https://github.com/RohithGowda-03-09/Grin-Mobility",
-    webapp: "https://grinmobility.com",
+    github: "https://drive.google.com/file/d/1m59PJhoMARPLNdPc2arrB_SxWvn5VLpm/view?usp=sharing",
+    webapp: "https://ai-coffee-market-analysi-ihvo72k.gamma.site",
   },
   {
     id: 9,
