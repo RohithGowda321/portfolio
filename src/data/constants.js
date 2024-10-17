@@ -174,15 +174,9 @@ export const projects = [
       "For a deeper understanding of how AI can enhance coffee futures trading, please refer to the detailed workflow document provided. It explains the entire process, including real-time market data integration, threshold-based monitoring, and AI-driven analysis, tailored specifically for the coffee industry. Additionally, you can explore the web application demo below to experience the system in action.For reference and further details, please go through the workflow documentation and explore the web application",
     image:
       "https://imgcdn.stablediffusionweb.com/2024/5/21/4f0d5d3e-d54b-444b-9325-b76bfbe485b1.jpg",
-    tags: [
-      "React Js",
-      "Javascript",
-      "HTML5",
-      "SCSS",
-      "Firebase",
-   
-    ],
-    github: "https://drive.google.com/file/d/1m59PJhoMARPLNdPc2arrB_SxWvn5VLpm/view?usp=sharing",
+    tags: ["React Js", "Javascript", "HTML5", "SCSS", "Firebase"],
+    github:
+      "https://drive.google.com/file/d/1m59PJhoMARPLNdPc2arrB_SxWvn5VLpm/view?usp=sharing",
     webapp: "https://ai-coffee-market-analysi-ihvo72k.gamma.site",
   },
   {
@@ -192,43 +186,37 @@ export const projects = [
       "I have integrated Gemini Ai using it api key and built a platfrm where it can give us response with better UI",
     image:
       "https://media.licdn.com/dms/image/D4D12AQFwvqrajd2edQ/article-cover_image-shrink_720_1280/0/1688369553748?e=2147483647&v=beta&t=BEVzfBTuU6czg9QQzkumzw_tRpiPEPDCt8zX5P3QeNg",
-    tags: [
-      "React Js",
-      "Javascript",
-      "HTML5",
-      "SCSS",
-     "Gemini-ai"
-    ],
+    tags: ["React Js", "Javascript", "HTML5", "SCSS", "Gemini-ai"],
     github: "https://github.com/RohithGowda321/AI-Chat-bot-ML",
     webapp: "https://main--ai-chat-bot-lstm.netlify.app",
   },
-  // {
-  //   id: 0,
-  //   title: "Podstream",
-  //   date: "Apr 2023 - May 2023",
-  //   description:
-  //     "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
-  //   image:
-  //     "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-  //   tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
-  //   category: "web app",
-  //   github: "https://github.com/rishavchanda/Podstream",
-  //   webapp: "https://podstream.netlify.app/",
-  //   member: [
-  //     {
-  //       name: "Rohith Gowda MM",
-  //       img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-  //       linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-  //       github: "https://github.com/rishavchanda/",
-  //     },
-  //     {
-  //       name: "Upasana Chaudhuri",
-  //       img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-  //       linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-  //       github: "https://github.com/upasana0710",
-  //     },
-  //   ],
-  // },
+  {
+    id: 0,
+    title: "Podstream",
+    description:
+      "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
+    image:
+      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
+    category: "web app",
+    // github: "https://github.com/rishavchanda/Podstream",
+    github: "https://github.com/RohithGowda321/AI-Chat-bot-ML",
+    webapp: "https://podstream.netlify.app/",
+    // member: [
+    //   {
+    //     name: "Rohith Gowda MM",
+    //     img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+    //     linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+    //     github: "https://github.com/rishavchanda/",
+    //   },
+    //   {
+    //     name: "Upasana Chaudhuri",
+    //     img: "https://avatars.githubusercontent.com/u/100614635?v=4",
+    //     linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+    //     github: "https://github.com/upasana0710",
+    //   },
+    // ],
+  },
   // {
   //   id: 1,
   //   title: "Vexa",
