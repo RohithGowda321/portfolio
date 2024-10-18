@@ -355,6 +355,19 @@ export const projects = [
   //   github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
   //   webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
   // },
+
+  {
+    id: 8,
+    title: "Commodity Price Prediction using Machine Learning and AI",
+    description:
+      "This Project facilitates stock analysis by allowing users to input a news article and select relevant stock ticker symbols. It retrieves historical stock data and evaluates the sentiment of the news to derive insights. By combining this sentiment data with stock prices, a machine learning model LSTM predicts the next day's stock price. The results are then presented, showcasing the predicted price alongside the most recent stock price and additional contextual information. This approach aims to provide users with a clearer understanding of how news sentiment can impact stock market performance..",
+    image:
+      "https://drive.google.com/file/d/1VcqKbPlb9CUSRY0CH1GnXnpxkwd8RyEd/view?usp=sharing",
+    tags: ["Python", "Keras", "TensorFlow", "Machine Learning", "AI"],
+    github: "https://github.com/Rohit-Gowda/Commodity-Price-Predictor",
+    webapp:
+      "https://colab.research.google.com/drive/1hdPPJ9As8OF2tv_Ue6zgTFnW8xH8qVi5?usp=sharing",
+  },
 ];
 
 export const TimeLineData = [
