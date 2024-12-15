@@ -169,15 +169,15 @@ export const education = [
 export const projects = [
   {
     id: 9,
-    title: "AI Powered Coffee Commodity Analysis",
+    title: "Grin Mobility",
     description:
-      "For a deeper understanding of how AI can enhance coffee futures trading, please refer to the detailed workflow document provided. It explains the entire process, including real-time market data integration, threshold-based monitoring, and AI-driven analysis, tailored specifically for the coffee industry. Additionally, you can explore the web application demo below to experience the system in action.For reference and further details, please go through the workflow documentation and explore the web application",
+      "Grin Mobility is a platform similar to Ola and Uber but focuses exclusively on electric vehicles (EVs). It operates as a micromobility and transportation service, catering to environmentally conscious urban commuters.",
     image:
-      "https://imgcdn.stablediffusionweb.com/2024/5/21/4f0d5d3e-d54b-444b-9325-b76bfbe485b1.jpg",
+      "https://res.cloudinary.com/dn1lwolkc/image/upload/v1734271856/ujnx9zhaxm8uf9td49hv.svg",
     tags: ["React Js", "Javascript", "HTML5", "SCSS", "Firebase"],
     github:
       "https://drive.google.com/file/d/1m59PJhoMARPLNdPc2arrB_SxWvn5VLpm/view?usp=sharing",
-    webapp: "https://ai-coffee-market-analysi-ihvo72k.gamma.site",
+    webapp: "https://grinmobility.com",
   },
   {
     id: 9,
@@ -192,16 +192,16 @@ export const projects = [
   },
   {
     id: 0,
-    title: "Podstream",
+    title: "EV Vehicle Data Analysis",
     description:
-      "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
+      "Developed a Dashboard where all cars model with there information and analysis of them based on Models and country.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
+    "https://res.cloudinary.com/dn1lwolkc/image/upload/v1734272608/kl5i502tqrx7a0zj7xyn.png",
+    tags: ["React Js", "Javascript", "HTML5", "SCSS", "Firebase"],
+
     category: "web app",
-    // github: "https://github.com/rishavchanda/Podstream",
-    github: "https://github.com/RohithGowda321/AI-Chat-bot-ML",
-    webapp: "https://podstream.netlify.app/",
+    github: "https://github.com/RohithGowda321/evdashboard",
+    webapp: "https://ev-vehicledashboard.netlify.app/",
     // member: [
     //   {
     //     name: "Rohith Gowda MM",
